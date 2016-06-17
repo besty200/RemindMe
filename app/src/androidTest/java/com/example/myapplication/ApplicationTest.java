@@ -9,7 +9,7 @@ import android.test.ApplicationTestCase;
 public class ApplicationTest extends ApplicationTestCase<Application> {
     public ApplicationTest() {
         super(Application.class);
-        System.out.println("тестинг");
+        System.out.println("1");
     }
 
 }
